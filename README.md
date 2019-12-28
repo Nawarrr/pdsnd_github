@@ -8,7 +8,10 @@ Uplodaing my work to my github repository
 My project is about uploading my 2nd project about bike share data analysis in the us
 
 ### Files used
-Include the files used
+the files i used are :
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All the credits are for Udacity.com
