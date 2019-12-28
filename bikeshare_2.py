@@ -86,7 +86,7 @@ def time_stats(df):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip."""
+    """Displays statistics on the most popular stations and trip. I <3 Udacity"""
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
@@ -109,24 +109,41 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
+<<<<<<< HEAD
     """Displays statistics on the total and average trip duration."""
 
     print('\nCalculating Trip Duration...\n')
+=======
+    """Displays statistics on the total and average trip duration. I love Udacity <3 """
+
+    print('\nCalculating Trip Duration......\n')
+>>>>>>> documentation
     start_time = time.time()
 
     # display total travel time
     total_travel_time = df["Trip Duration"].sum()
+<<<<<<< HEAD
     print("total travel time :" , total_travel_time)
     # display mean travel time
     mean_travel_time = df["Trip Duration"].mean()
     print("mean travel time :" , mean_travel_time)
+=======
+    print("total travel time is" , total_travel_time)
+    # display mean travel time
+    mean_travel_time = df["Trip Duration"].mean()
+    print("mean travel time is" , mean_travel_time)
+>>>>>>> documentation
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
 def user_stats(df):
+<<<<<<< HEAD
     """Displays statistics on bikeshare users."""
+=======
+    """Displays statistics on bikeshare users. I <3 Udacity"""
+>>>>>>> documentation
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
