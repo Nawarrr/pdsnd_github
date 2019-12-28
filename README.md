@@ -4,8 +4,8 @@
 ### Project Title
 Uplodaing my work to my github repository
 
-### Description 
-Describe what your project is about and what it does
+### Description
+My project is about uploading my 2nd project about bike share data analysis in the us
 
 ### Files used
 Include the files used
