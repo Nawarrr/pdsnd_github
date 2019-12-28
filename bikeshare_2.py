@@ -22,7 +22,7 @@ def get_filters():
 
     city = input("What city you want data for : chicago, new york city, washington ?")
     city = city.lower()
-    while type(city) != str or  city not in ["washington" , "new york city" , "chicago"]:
+    while type(city) is not  str or  city not in ["washington" , "new york city" , "chicago"]:
         city = input("What city you want data for : Chicago , New York or Washington ?").lower()
     # get user input for month (all, january, february, ... , june)
 
