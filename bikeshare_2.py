@@ -86,7 +86,7 @@ def time_stats(df):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip. I love Udacity"""
+    """Displays statistics on the most popular stations and trip. I <3 Udacity"""
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
@@ -126,7 +126,7 @@ def trip_duration_stats(df):
 
 
 def user_stats(df):
-    """Displays statistics on bikeshare users."""
+    """Displays statistics on bikeshare users. I <3 Udacity"""
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
