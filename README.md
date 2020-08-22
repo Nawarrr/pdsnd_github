@@ -2,10 +2,10 @@
 28/12/2019
 
 ### Project Title
-Uplodaing my work to my github repository
+Udacity's Data Analytics Nanodegree 2nd Project
 
 ### Description
-My project is about uploading my 2nd project about bike share data analysis in the us
+Bike share data Analysis
 
 ### Files used
 the files i used are :
